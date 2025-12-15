@@ -8,7 +8,7 @@ I build products that turn complex systems into streamlined, scalable experience
 ---
 
 ## 🔭 I’m currently working on
-- **Mnemo** – an AI platform that captures, summarizes, and structures real-world conversations using speech + LLM workflows  
+- **Mnemo** – an AI platform that captures, summarizes, and structures real-world conversations using speech + LLM workflows  (to be public soon)
 - Advanced **AI-driven finance automation** concepts: ledgers, pricing systems, multi-currency workflows, and internal developer tools  
 - PM career frameworks, interview prep content, and automation ideas for product teams  
 
